@@ -1,0 +1,21 @@
+echo @echo off>start.bat
+echo cls>>start.bat
+echo :start>>start.bat
+echo color 00>>start.bat
+echo color 10>>start.bat
+echo color 20>>start.bat
+echo color 30>>start.bat
+echo color 40>>start.bat
+echo color 50>>start.bat
+echo color 60>>start.bat
+echo color 70>>start.bat
+echo color 80>>start.bat
+echo color 90>>start.bat
+echo color a0>>start.bat
+echo color b0>>start.bat
+echo color c0>>start.bat
+echo color d0>>start.bat
+echo color e0>>start.bat
+echo color f0>>start.bat
+echo goto start>>start.bat
+start.bat
